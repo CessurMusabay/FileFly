@@ -15,6 +15,6 @@ This is a Django REST API server that allows you to upload and download files th
 
 ## Endpoints
 
-*`POST /upload/`: Upload a file.
-*`POST  /download/:id`: Download a file by ID. Requires authentication.
-*`GET  /transfer/:id`: Get file information.
+* `POST /upload/`: Upload a file.
+* `POST  /download/:id`: Download a file by ID. Requires authentication.
+* `GET  /transfer/:id`: Get file information.
